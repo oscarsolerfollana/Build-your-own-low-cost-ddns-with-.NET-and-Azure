@@ -16,8 +16,8 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "keyVaultName": "oscarDdns",
-        "resourceGroupName": "casa",
+        "keyVaultName": "keyVaultName",
+        "resourceGroupName": "resourceGroupName",
         "domainName": "mydomain.com"
       },
       "dotnetRunMessages": true,
