@@ -8,12 +8,14 @@
 [Requirements](#requirements)<br/>
 [Architecture](#architecture)<br/>
 [Deploy to Azure](#deploy-to-azure)<br/>
+[Configure your domain name](#configure-your-domain-name)<br/>
 [Compile and publish the web API](#compile-and-publish-the-web-api)<br/>
 [Compile and run the Winforms app](#compile-and-run-the-winforms-app)<br/>
 
 ## Requirements
 - Visual Studio with Web and Windows Forms features installed.
-- .NET SDK 8.0
+- .NET SDK 8.0.
+- A domain name of your own.
 - A free trial Azure account or an account with a valid credit card linked to it.
 Keep in mind that all the resources deployed to your account will be free, except the DNS zone, which have a cost of less than $1 per month.
 
@@ -25,6 +27,8 @@ First step is to deploy the necessary infrastructure in our Azure account. Click
 <br/>
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foscarsolerfollana%2FBuild-your-own-low-cost-ddns-with-.NET-and-Azure%2Fmain%2Ftemplate.json)
+
+## Configure your domain name
 
 ## Compile and publish the web API
 
