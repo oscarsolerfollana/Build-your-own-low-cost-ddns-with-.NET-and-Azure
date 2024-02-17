@@ -42,4 +42,8 @@ Now, publish to Azure.
 
 ## Compile and run the Winforms app
 
+You can just compile and run your app in Visual Studio, or you can publish it with the same method than before, but changing the target to a folder.
+The first time you run, you must configure the following parameters:
+URL: it must be the url given
+
 (Under construction)
