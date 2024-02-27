@@ -22,7 +22,15 @@ Keep in mind that all the resources deployed to your account will be free, excep
 <br/>
 
 ## Architecture
+
+### Components
+
+![alt text](https://github.com/oscarsolerfollana/Build-your-own-low-cost-ddns-with-.NET-and-Azure/blob/main/readmeContent/components.png?raw=true)
 <br/>
+
+### Dataflow
+![alt text](https://github.com/oscarsolerfollana/Build-your-own-low-cost-ddns-with-.NET-and-Azure/blob/main/readmeContent/dataflow.png?raw=true)
+<br/><br/>
 
 ## Deploy to Azure
 
@@ -33,7 +41,9 @@ First step is to deploy the necessary infrastructure in our Azure account. Click
 <br/><br/>
 
 ## Configure your domain name
-<br/>
+
+![alt text](https://github.com/oscarsolerfollana/Build-your-own-low-cost-ddns-with-.NET-and-Azure/blob/main/readmeContent/ddns_servers.png?raw=true)
+<br/><br/>
 
 ## Compile and publish the web API
 
