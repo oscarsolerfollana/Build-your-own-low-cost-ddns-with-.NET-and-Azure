@@ -86,7 +86,7 @@ URL: it must be the url given when Azure Web App is deployed, and it can be chec
 ![alt text](https://github.com/oscarsolerfollana/Build-your-own-low-cost-ddns-with-.NET-and-Azure/blob/main/readmeContent/url.png?raw=true)
 <br/><br/>
 
-## Compile and run the Winforms app
+## Debugging
 
 If you want to debug the app, you shall need to modify the environment variables **keyVaultName**, **resourceGroupName** and **domainName** as you wish.
 On the other hand, you shall be able to use your Azure resources locally, as the **DefaultAzureCredential** method will use your Azure CLI login credentials.
