@@ -89,6 +89,6 @@ URL: it must be the url given when Azure Web App is deployed, and it can be chec
 ## Debugging
 
 If you want to debug the app, you shall need to modify the environment variables **keyVaultName**, **resourceGroupName** and **domainName** as you wish.
-On the other hand, you shall be able to use your Azure resources locally, as the **DefaultAzureCredential** method will use your Azure CLI login credentials.
+On the other hand, you shall be able to debug locally using your Azure resources, as the **DefaultAzureCredential** method will use your Azure CLI login credentials.
 <br/><br/>
 ![alt text](https://github.com/oscarsolerfollana/Build-your-own-low-cost-ddns-with-.NET-and-Azure/blob/main/readmeContent/environment_variables.png?raw=true)
